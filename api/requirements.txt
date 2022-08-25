@@ -1,0 +1,14 @@
+tensorflow
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.7.0
+matplotlib
+numpy
+uvloop
+httptools
+gunicorn
+google-cloud-storage==1.16.1
+flask
+tensorflow-hub
